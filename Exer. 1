@@ -1,0 +1,7 @@
+public class Main {
+     public staic void main(String[] args {
+         if (30>16) {
+          system.out.print("30 is greater than 16"); 
+}
+}
+}
